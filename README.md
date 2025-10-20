@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RF Link Planner Tool
 
 ## Overview
@@ -45,3 +46,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# rf-link-planner
+>>>>>>> db0570a9847dcb49fa185429145c7fdf3e068b9b
