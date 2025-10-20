@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Tower A",
+        "location": {
+            "lat": 37.7749,
+            "lng": -122.4194
+        },
+        "frequency": 5.0
+    },
+    {
+        "id": 2,
+        "name": "Tower B",
+        "location": {
+            "lat": 37.7849,
+            "lng": -122.4094
+        },
+        "frequency": 5.0
+    },
+    {
+        "id": 3,
+        "name": "Tower C",
+        "location": {
+            "lat": 37.7949,
+            "lng": -122.3994
+        },
+        "frequency": 2.4
+    },
+    {
+        "id": 4,
+        "name": "Tower D",
+        "location": {
+            "lat": 37.8049,
+            "lng": -122.3894
+        },
+        "frequency": 2.4
+    }
+]
